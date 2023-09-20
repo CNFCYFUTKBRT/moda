@@ -1,0 +1,40 @@
+.kaptuhka{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+}
+body{
+    background-image: url('1616602595_22-p-svetlo-bezhevii-fon-odnotonnii-27.jpg');
+}
+img{
+    width: 500px;
+
+}
+
+.pink{
+    width: 350px;
+    padding: 15px;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex p{
+    font-size: 25px;
+}
+
+.gegege{
+    width: 350px;
+    padding: 15px;
+}
+.link{
+    color: black;
+    font-size: 20px;
+    transition: .3s;
+}
+
+.link:hover{
+    color: rgb(161, 37, 57);
+}
